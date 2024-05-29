@@ -54,5 +54,3 @@ This project is licensed under the Apache License.
 ```plaintext
 tk
 ```
-
-This should provide clear instructions and information for anyone wanting to use or contribute to your Hangman game project.
