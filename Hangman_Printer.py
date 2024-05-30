@@ -3,11 +3,11 @@
 #         _______
 #        |/      |
 #        |      (_)
-#        |     \\|/
+#        |      \\|/
 #        |       |
 #        |      / \\
 #        |
-#   ______|______
+#   _____|______
 #   """
 #   if num == 1:
 #       print(hang_man[0:20])
@@ -90,11 +90,11 @@ def printer(num):
       return hang_man
 
 
-# 1. Index 18
-# 2. Index 36
-# 3. Index 54
-# 4. Index 72
-# 5. Index 90
-# 6. Index 108
-# 7. Index 126
-# 8. Index 144
+# # 1. Index 18
+# # 2. Index 36
+# # 3. Index 54
+# # 4. Index 72
+# # 5. Index 90
+# # 6. Index 108
+# # 7. Index 126
+# # 8. Index 144
