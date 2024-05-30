@@ -10,7 +10,6 @@ def generateRow(window, columns):
     textBoxes.append(textbox)
   return textBoxes
 
-
 def get_inputs(textBoxes):
   inputs = []
   for textbox in textBoxes:
